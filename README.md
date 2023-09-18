@@ -1,6 +1,8 @@
 # My Solution to Finsweet's Phone Prefix Challenge
 
-Project done with Finsweet's Developer Starter template.
+Project done using Finsweet's Developer Starter template.
+
+- [Finsweet's Developer Starter Template](https://github.com/finsweet/developer-starter)
 
 Before starting to work with this template, please take some time to read through the documentation.
 
