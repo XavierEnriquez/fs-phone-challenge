@@ -1,6 +1,6 @@
-# Finsweet Developer Starter
+# My Solution to Finsweet's Phone Prefix Challenge
 
-A starter template for both Client & Power projects.
+Project done with Finsweet's Developer Starter template.
 
 Before starting to work with this template, please take some time to read through the documentation.
 
